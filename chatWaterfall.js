@@ -1,7 +1,7 @@
 // Define Variables
-var fbElem = document.getElementById("messengerChat");
-var iOSElem = document.getElementById("apple-business-chat");
-var shopElem = document.getElementById("shopifyChat");
+var fbElem = document.getElementById("messageus_button");
+var iOSElem = document.getElementById("AppleBusinessChat");
+var shopElem = document.getElementById("shopify-chat");
 
 // Set all chat streams to hidden by default
 fbElem.style.display = "none";
